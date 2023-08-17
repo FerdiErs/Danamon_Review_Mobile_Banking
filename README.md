@@ -14,5 +14,4 @@ https://lookerstudio.google.com/u/0/reporting/552b1d0f-d353-4436-b9f3-29a91e926e
 ## Try Model 
 https://huggingface.co/spaces/FerdiErs/Bank_Reviews
 ## Presentation 
-https://www.canva.com/design/DAFrVuZ1jig/mIZGiQFXpcGvi3-x9i9WGg/edit?utm_content=DAFrVuZ1jig&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
-
+https://www.canva.com/design/DAFrv6gl9zk/gqDTF-07ZJv9cIeXPOxjyQ/edit?utm_content=DAFrv6gl9zk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
